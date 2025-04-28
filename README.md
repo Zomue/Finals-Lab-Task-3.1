@@ -39,11 +39,24 @@ students enralled: Integer, not null.
 
 ## Task 5: Sort courses by students enrolled in ascending order.
 
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/RENZO%200.1.png)
+# 1
+![image](https://github.com/user-attachments/assets/3b789d86-5d60-4b30-9edc-982d7a4223fb)
+![image](https://github.com/user-attachments/assets/9097e5c6-f0f6-4cbb-a719-c17684e0c1c8)
 
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/RENZO%20.png)
+# 2
+![image](https://github.com/user-attachments/assets/8c2493ba-8da6-480f-bc76-6e0717803cc4)
+![image](https://github.com/user-attachments/assets/4803c6d4-6bad-4b0a-bd7d-fb80245748b1)
 
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/RENZO%202.png)
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/RENZO%203.png)
+# 3
+![image](https://github.com/user-attachments/assets/623c6e8f-23b4-49a2-b859-e22c92a37b48)
+![image](https://github.com/user-attachments/assets/09bf7268-cbf8-4012-8ae8-ccc9bcca18fe)
+
+# 4
+![image](https://github.com/user-attachments/assets/855e8ee2-1429-4712-a4da-c771d297a807)
+![image](https://github.com/user-attachments/assets/ded4168b-0cd3-4931-be16-75d9fa4313a6)
+
+# 5
+![image](https://github.com/user-attachments/assets/043fa631-6448-458c-9abb-bb7216b27284)
+![image](https://github.com/user-attachments/assets/9f719b82-7dfb-428f-b719-60dade01e4f7)
 
 [BACK TO PORTFOLIO](https://zomue.github.io/)
